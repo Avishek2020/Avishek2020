@@ -1,18 +1,53 @@
-# Hello, I'm Avishek! 👋
-I'm a software developer passionate about building open-source projects, creating tools for developers, and learning new technologies.
+# 👋 Welcome to My GitHub Profile!
 
-## 🚀 Skills
-- Python
-- JavaScript
-- Node.js
-- React
+## About Me
 
-## 🛠 Projects
-- [Project 1](https://github.com/avishek/project1): An awesome tool for managing tasks.
-- [Project 2](https://github.com/avishek/project2): A web app for tracking habits.
+Hey there! I'm Avishek Mishra, a passionate ML and Audio researcher with a love for coding. I'm currently exploring the vast world of programming and software development, constantly learning and growing along the way. This GitHub profile serves as a showcase of my projects, contributions, and journey in the tech world.
 
-## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/avishek)
-- [Twitter](https://twitter.com/avishek)
+## 🏆 GitHub Profile Trophies
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=avishek&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=n33lkanth)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🚀 My Skills
+
+- Programming Languages: Python, Golang, Javascript, C, C++
+- Machine & Deep Learning: Machine Learning, Deep Learning, NLP, Computer Vision
+- Data Manipulation & Analysis: Data Visualization, Data Cleaning, Feature Engineering, Feature Selection, Feature Extraction
+- Data Science Libraries: NumPy, Pandas, SciKit-Learn, Matplotlib, Seaborn
+- Databases: MS-SQL, My SQL, MongoDB, PostgreSQL
+- Version Control: GitHub, GitLab, SVN
+- Framework & Libraries: TensorFlow, Keras, PyTorch, Flask, Pandas, Numpy, Scikit-learn, PyTest
+- Containerization: Docker, GitLab CI/CD
+- Other tools: HTML, CSS, Draw.io, Jira, Agile Methods, PyCharm, VSCode
+- Languages: English (Fluent), German (Learning A2), Hindi (Native)
+
+## 🌱 Current Projects
+
+Here are some of the projects I'm currently working on:
+
+1. **Project Name**: Short description.
+   - Repository: [Link](https://github.com/yourusername/project-repo)
+   - Technologies: List the technologies used.
+
+2. **Project Name**: Short description.
+   - Repository: [Link](https://github.com/yourusername/project-repo)
+   - Technologies: List the technologies used.
+
+## 🔭 Recent Contributions
+
+I've been actively contributing to various open-source projects. Here are some of my recent contributions:
+
+- **Contribution**: Description of the contribution.
+  - Repository: [Link](https://github.com/repo-owner/repo)
+  - Pull Request: [Link](https://github.com/repo-owner/repo/pull/123)
+
+- **Contribution**: Description of the contribution.
+  - Repository: https://github.com/repo-owner/repo
+  - Issue: https://github.com/repo-owner/repo/issues/456
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/chauhan3
+- Email: youremail@example.com
+
+Feel free to explore my repositories, leave feedback, or reach out to me for collaboration opportunities. Let's connect and build amazing things together! 🌟
