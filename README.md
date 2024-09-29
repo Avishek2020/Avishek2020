@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Avishek! 👋
+I'm a software developer passionate about building open-source projects, creating tools for developers, and learning new technologies.
 
-<!--
-**Avishek2020/Avishek2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Python
+- JavaScript
+- Node.js
+- React
 
-Here are some ideas to get you started:
+## 🛠 Projects
+- [Project 1](https://github.com/avishek/project1): An awesome tool for managing tasks.
+- [Project 2](https://github.com/avishek/project2): A web app for tracking habits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/avishek)
+- [Twitter](https://twitter.com/avishek)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=avishek&show_icons=true&theme=radical)
