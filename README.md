@@ -1,5 +1,6 @@
 # Hello, I'm Avishek👋
 
+
 I'm a data scientist who is passionate about extracting insights from data, building models, and developing data-driven solutions. My work spans across machine learning, deep learning, natural language processing and data visualization. I enjoy contributing to open-source projects and collaborating with the data science community.
 
 ---
@@ -74,5 +75,10 @@ I'm a data scientist who is passionate about extracting insights from data, buil
   <a href="https://www.linkedin.com/in/avishek2020/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
   <a href="mailto:avishek2020@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
   <a href="https://medium.com/@avishek2020" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" height="30" align="center"/></a>  
-   
- 
+
+---
+## 🚀 GitHub Stats & Progress
+
+
+![Avishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avishek2020&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek2020&layout=compact&theme=radical&hide_border=true)
